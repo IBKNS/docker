@@ -1,4 +1,5 @@
 # Docker IaC automation Project
+	This Docker project contains Infrastructure As Code Template, Configurations and other technical things required to build and run the required software stock workloads as containerzied applications.
 
 
 ## Getting started
